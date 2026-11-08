@@ -456,7 +456,7 @@ Figure7a =
         legend.key.width = unit(0.2, "cm"),
         legend.key.size = unit(0.3, "cm"),
         legend.spacing.x = unit(0.1, "lines"))+
-  labs(x = expression(paste(t[sunrise], ' (local', ' time) [hh:mm]')),
+  labs(x = expression(paste(t[sunrise], ' (local', ' time) [h:mm]')),
        y = expression(paste(t[italic(p)*CO[2]*max], ' (local ', 'time) [h]')))
 
 
